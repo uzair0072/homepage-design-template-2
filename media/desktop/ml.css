@@ -1,0 +1,45 @@
+@media only screen and (min-width:769px) and (max-width:1024px) {
+    #pic1 {
+        width: 18em;
+        height: 25em;
+    }
+
+    #heading-primary {
+        font-size: 26px;
+    }
+
+    #top-para, #bottom-para {
+        font-size: 14px;
+    }
+
+    .btn-primary, #btn-3 {
+        margin-right: 15px;
+        border-radius: 20px 0px 20px 0px;
+        padding: 5px 20px 5px 20px;
+    }
+
+    .counter {
+        font-size: 14px;
+    }
+
+    .companies {
+        margin-top: 30px;
+    }
+
+    .company-cl-1, .company-cl-2, .company-cl-3, .company-cl-4, .company-cl-5 {
+        padding-right: 25px;
+        padding-left: 25px;
+        margin-left: 15px;
+    }
+
+    #pic2 {
+        width: 18em;
+        height: 25em;
+    }
+
+    .heading-secondary {
+        margin-bottom: 150px;
+        font-size: 26px;
+    }
+
+}

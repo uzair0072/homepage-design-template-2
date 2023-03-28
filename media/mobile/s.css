@@ -1,0 +1,46 @@
+@media only screen and (min-width: 401px) and (max-width: 480px) {
+    
+    .row-1, .row2 {
+        padding: 8px 8px 8px 8px;
+    }
+
+    .row-1, .column1, .column2, .row2, .column3, .column4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .column4 {
+        margin-left: 50px;
+    }
+    
+    #pic1 {
+        width: 20em;
+        height: 25em;
+        margin-top: 0px;
+        margin-left: 30px;
+    }
+
+    .companies {
+        display: flex;
+        flex-direction: column;
+        margin-top: 40px;
+        margin-left: 40px;
+    }
+
+    .company-cl-1, .company-cl-2, .company-cl-3, .company-cl-4, .company-cl-5 {
+        padding: 30px 85px 30px 85px;
+        justify-items: center;
+    }
+
+    #pic2 {
+        width: 20em;
+        height: 25em;
+        margin-left: 0px;
+    }
+
+    .heading-secondary {
+        margin-bottom: 30px;
+        margin-top: 30px;
+        font-size: 20px;
+    }
+}
