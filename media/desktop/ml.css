@@ -1,7 +1,7 @@
 @media only screen and (min-width:769px) and (max-width:1024px) {
     #pic1 {
-        width: 18em;
-        height: 25em;
+        width: 25em;
+        height: 30em;
     }
 
     #heading-primary {
@@ -33,13 +33,17 @@
     }
 
     #pic2 {
-        width: 18em;
+        width: 25em;
         height: 25em;
     }
 
     .heading-secondary {
         margin-bottom: 150px;
         font-size: 26px;
+    }
+
+    .column4 {
+        font-size: 14px;
     }
 
 }

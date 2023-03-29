@@ -1,0 +1,71 @@
+@media only screen and (min-width:1201px) {
+    
+    #construction {
+        font-size: 36px;
+    }
+
+    #members, #about, #testimonials, #gallery {
+        font-size: 28px;
+    }
+    
+    #pic1 {
+        width: 50em;
+        height: 50em;
+        margin-top: -110px;
+    }
+
+    #heading-primary {
+        font-size: 50px;
+    }
+
+    #top-para, #bottom-para {
+        font-size: 24px;
+    }
+
+    .btn-primary, #btn-3 {
+        margin-right: 20px;
+        border-radius: 20px 0px 20px 0px;
+        padding: 15px 50px 15px 50px;
+        font-size: 24px;
+    }
+
+    .counter-cl-1, .counter-cl-2, .counter-cl-3 {
+        padding: 5px 50px 5px 50px;
+    }
+
+    #counter-hd-1, #counter-hd-2, #counter-hd-3 {
+        font-size: 36px;
+    }
+
+    #counter-para-1, #counter-para-2, #counter-para-3 {
+        font-size: 24px;
+    }
+
+    .companies {
+        width: 100em;
+    }
+
+    #company-hd-1, #company-hd-2, #company-hd-3, #company-hd-4, #company-hd-5 {
+        font-size: 50px;
+    }
+
+    .heading-secondary {
+        margin-bottom: 200px;
+        font-size: 50px;
+    }
+
+    #pic2 {
+        width: 50em;
+        height: 50em;
+    }
+
+    #number-1, #number-2, #number-3 {
+        font-size: 60px;
+        margin-right: 40px;
+    }    
+
+    #number-1-para, #number-2-para, #number-3-para {
+        font-size: 24px;
+    }
+
+}

@@ -1,9 +1,4 @@
 @media only screen and (min-width: 320px) and (max-width: 400px) {
-    
-    .navbar-toggler {
-        margin-left: 100px;
-    }
-    
     .row-1, .row2 {
         padding: 8px 0px 8px 0px;
     }
