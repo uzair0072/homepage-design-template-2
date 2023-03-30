@@ -1,11 +1,11 @@
-@media only screen and (min-width:1025px) and (max-width:1200px) {
+@media only screen and (min-width:1025px) and (max-width:1366px) {
     #pic1 {
-        width: 30em;
-        height: 30em;
+        width: 40em;
+        height: 40em;
     }
 
     .companies {
-        width: 60em;
+        width: 80em;
     }
 
     .heading-secondary {
@@ -13,8 +13,8 @@
     }
 
     #pic2 {
-        width: 30em;
-        height: 30em;
+        width: 40em;
+        height: 40em;
     }
 
     .row2 {
