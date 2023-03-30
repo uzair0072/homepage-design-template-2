@@ -1,6 +1,6 @@
 @media only screen and (min-width:2559px) {
     #construction {
-        font-size: 100px;
+        font-size: 72px;
     }
 
     #members, #about, #testimonials, #gallery {
@@ -10,60 +10,67 @@
     #pic1 {
         width: 100em;
         height: 80em;
-        margin-top: -110px;
+        margin-top: -165px;
     }
 
     #heading-primary {
-        font-size: 72px;
+        font-size: 85px;
     }
 
     #top-para, #bottom-para {
-        font-size: 24px;
+        font-size: 40px;
+        margin-bottom: 70px;
     }
 
     .btn-primary, #btn-3 {
-        margin-right: 20px;
-        border-radius: 20px 0px 20px 0px;
+        margin-right: 40px;
+        border-radius: 30px 50px 30px 50px;
         padding: 15px 50px 15px 50px;
-        font-size: 24px;
-    }
-
-    .counter-cl-1, .counter-cl-2, .counter-cl-3 {
-        padding: 5px 50px 5px 50px;
-    }
-
-    #counter-hd-1, #counter-hd-2, #counter-hd-3 {
         font-size: 36px;
     }
 
+    .counter-cl-1, .counter-cl-2, .counter-cl-3 {
+        padding: 20px 70px 20px 70px;
+    }
+
+    #counter-hd-1, #counter-hd-2, #counter-hd-3 {
+        font-size: 50px;
+    }
+
     #counter-para-1, #counter-para-2, #counter-para-3 {
-        font-size: 24px;
+        font-size: 40px;
     }
 
     .companies {
-        width: 100em;
+        width: 170em;
     }
 
     #company-hd-1, #company-hd-2, #company-hd-3, #company-hd-4, #company-hd-5 {
-        font-size: 50px;
+        font-size: 72px;
+        margin-top: 70px;
+        margin-right: 70px;
     }
 
     .heading-secondary {
-        margin-bottom: 200px;
-        font-size: 50px;
+        margin-bottom: 500px;
+        font-size: 85px;
     }
 
     #pic2 {
-        width: 50em;
-        height: 50em;
+        width: 80em;
+        height: 80em;
     }
 
     #number-1, #number-2, #number-3 {
-        font-size: 60px;
+        font-size: 72px;
         margin-right: 40px;
     }    
 
     #number-1-para, #number-2-para, #number-3-para {
-        font-size: 24px;
+        font-size: 40px;
+    }
+
+    .point-1, .point-2 {
+        margin-bottom: 100px;
     }
 }
