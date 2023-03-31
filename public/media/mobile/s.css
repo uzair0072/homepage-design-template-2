@@ -5,11 +5,11 @@
     }
 
     #construction{
-        font-size: 40px;
+        font-size: 24px;
     }
 
     #heading-primary {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .row-1, .column1, .column2, .row2, .column3, .column4 {
@@ -21,6 +21,12 @@
         margin-left: 50px;
     }
     
+    .btn-primary {
+        margin-right: 10px;
+        border-radius: 20px 0px 20px 0px;
+        padding: 5px 30px 5px 30px;
+    }
+
     #pic1 {
         width: 20em;
         height: 25em;

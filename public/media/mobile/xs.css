@@ -12,8 +12,14 @@
         margin-left: 15px;
     }
     
+    .btn-primary {
+        margin-right: 10px;
+        border-radius: 20px 0px 20px 0px;
+        padding: 5px 15px 5px 15px;
+    }
+
     #pic1 {
-        width: 20em;
+        width: 18em;
         height: 25em;
         margin-top: 20px;
         margin-left: 5px;
